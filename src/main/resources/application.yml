@@ -1,0 +1,8 @@
+spring:
+  application:
+    name: fcm
+  config:
+    activate:
+      on-profile: default
+server:
+  port: 8080
